@@ -1,6 +1,6 @@
 # File Processor API
 
-<div align="center">
+<div align="left">
   
 ![Status do Projeto](https://img.shields.io/badge/status-em%20progresso-orange)
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?logo=node.js)
