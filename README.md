@@ -18,7 +18,7 @@ Ele futuramente sera integrado com um aplicativo de gestão e controle
 
 Este projeto encontra-se **em desenvolvimento ativo**, com diversas melhorias e funcionalidades sendo planejadas para as próximas versões. A estrutura atual está sendo revisada e reestruturada com foco em **praticidade, escalabilidade e organização do código**.
 
-Nosso objetivo é transformar esta API em uma solução robusta e flexível para atender diferentes demandas de gestão documental e operacional.
+Meu objetivo é transformar esta API em uma solução robusta e flexível para atender diferentes demandas de gestão documental e operacional.
 
 ---
 
