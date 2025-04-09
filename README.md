@@ -1,11 +1,13 @@
 # File Processor API
-
-![Status do Projeto](https://img.shields.io/badge/status-finalizado-green)
+<div align="center">
+![Status do Projeto](https://img.shields.io/badge/status-em-progresso-orange)
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178C6?logo=typescript)
 ![NestJS](https://img.shields.io/badge/NestJS-8.x-E0234E?logo=nestjs)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
+
+</div>
 
 API para processamento e extração de dados de arquivos (PDF, Excel, Word) com funcionalidades de gerenciamento de contratos, faturas e equipamentos.
 
