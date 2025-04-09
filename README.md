@@ -1,6 +1,8 @@
 # File Processor API
+
 <div align="center">
-![Status do Projeto](https://img.shields.io/badge/status-em-progresso-orange)
+  
+![Status do Projeto](https://img.shields.io/badge/status-em%20progresso-orange)
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?logo=node.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178C6?logo=typescript)
 ![NestJS](https://img.shields.io/badge/NestJS-8.x-E0234E?logo=nestjs)
